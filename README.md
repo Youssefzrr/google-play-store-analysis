@@ -28,3 +28,6 @@ The project uses the following Python libraries:
 
 ### Installation
 1. Clone this repository:
+   ```
+   git clone https://github.com/Youssefzrr/google-play-store-analysis.git
+   ```
